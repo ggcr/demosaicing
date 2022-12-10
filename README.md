@@ -17,8 +17,15 @@ As we can see, we will capture twice as green. This is because the way the human
     <img width=700 src="https://user-images.githubusercontent.com/57730982/205903954-9288f297-1b51-41f8-9994-b98e47bcba69.png" />
 </p>
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 72f5581216e8b4e9686385c8dc86791740f2fe0a
+## Demosaicing
 
+For the process of interpolating the missing channels a bilinear process has been implemented with convolutions operations. Another advanced interpolation method has been implemented, Gradient Correction Interpolation.
+
+![unknown](https://user-images.githubusercontent.com/57730982/206854868-f6530127-d4a6-4071-bfed-89f0e91b70e0.png)
+
+## References
+
+R. Kimmel, “Demosaicing: image reconstruction from color CCD samples,” IEEE Trans. on Image Processing, vol. 8, Sept. 1999.
+
+H. S. Malvar, L. He, R. Cutler, "High Quality linear interpolation for Demosaicing of Bayer-patterned color images". 11, Dec. 2015
