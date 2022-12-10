@@ -17,5 +17,8 @@ As we can see, we will capture twice as green. This is because the way the human
     <img width=700 src="https://user-images.githubusercontent.com/57730982/205903954-9288f297-1b51-41f8-9994-b98e47bcba69.png" />
 </p>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 72f5581216e8b4e9686385c8dc86791740f2fe0a
 
