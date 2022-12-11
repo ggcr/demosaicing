@@ -5,7 +5,7 @@ This **photosite cavities** or pixel cells are monochromatic, or in other words,
 
 ## Color filters
 
-Each digital camera brands has its own color filters but the most common known is the **Bayern Filter** or palette. This filter is placed at the top of our photosites cavities and they will only let in the corresponding color.
+Each digital camera brands has its own color filters but the most common known is the **Bayer Filter** or palette. This filter is placed at the top of our photosites cavities and they will only let in the corresponding color.
 
 | Name | Pattern Size | Image |
 |-----|-----|-----|
@@ -27,7 +27,5 @@ For the process of interpolating the missing channels a bilinear process has bee
 </p>
 
 ## References
-
-R. Kimmel, “Demosaicing: image reconstruction from color CCD samples,” IEEE Trans. on Image Processing, vol. 8, Sept. 1999.
 
 H. S. Malvar, L. He, R. Cutler, "High Quality linear interpolation for Demosaicing of Bayer-patterned color images". 11, Dec. 2015
